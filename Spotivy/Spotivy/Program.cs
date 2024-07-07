@@ -6,9 +6,7 @@ namespace Spotivy
     {
         static void Main(string[] args)
         {
-            Number song = new("OhYeah", "MJ");
-            Console.WriteLine(song.Title);
-            song.Play();
+            
         }
     }
 }
